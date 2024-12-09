@@ -1,15 +1,14 @@
 
 
 Labs done with OPEN API KEY                                                                                                                                                            
-    - Lab 2, Lab 4, Lab 5, Lab 6                                                                                                                                                                                            
-    - Translate languages (Page 4)                                                                                                                                                                
-    - Draft documents                                                                                                                                                                                                            
-    - Write computer code                                                                                                                                                            
-    - Answer questions about a knowledge base                                                                                                                                                            
-    - Analyze texts                                                                                                                                                                                                                                                                                                                        
-    - Give software a natural language interface                                                                                                                                                            
-    - Tutor in a range of subjects                                                                                                                                                            
-    - Simulate characters for games                                                                                                                                                            
+    - Setting Up for OpenAI Development                                                                                                                                                                                         
+    - Generating Text and Image Generation with OpenAI’s Models                                                                                                                                                                                                           
+    - Insights from Audio Transcription                                                                                                                                                                                                            
+    - Prompt Engineering for Social Good                                                                                                                                                            
+    -  Visual Studio Code and Streamlit                                                                                                                                                            
+    - Using GitHub to Clone a Skeleton Project                                                                                                                                                                                                                                                                                                                      
+    - AI Pair Programming with GitHub Copilot X                                                                                                                                                            
+
 
 
 Project Done                                                                                                                                                                                                                                                                                                                       
