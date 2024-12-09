@@ -14,5 +14,4 @@ Labs done with OPEN API KEY
 
 Project Done                                                                                                                                                                                                                                                                                                                       
     - Career Advice                                                                                                                                                                                                                                                                                                                        
-    - Water Habits                                                                                                                                                                                                                                                                                                                        
 
