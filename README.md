@@ -10,7 +10,8 @@ Labs done with OPEN API KEY
     - Give software a natural language interface
     - Tutor in a range of subjects
     - Simulate characters for games
-    - [More OpenAI examples](https://platform.openai.com/examples) 
+
+
 Project Done
     - Career Advice
     - Water Habits
